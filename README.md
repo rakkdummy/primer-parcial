@@ -1,4 +1,4 @@
-```primer-parcial```
+
 
 ```toro toro yorman andres```
 
@@ -51,3 +51,13 @@ Se genera el certificado final de la transacción y, si aplica, se ejecutan scri
  
 <img width="613" height="77" alt="image" src="https://github.com/user-attachments/assets/67a062f7-d305-4473-945c-9e0217c0678a" />
 
+la empresa debe aislar el PC de la red para evitar posibles daños o propagación. Después, debe analizar el archivo X con un antivirus actualizado y realizar un análisis completo del equipo. Con los resultados podrá determinar si se trata de un virus, gusano o troyano y eliminar la amenaza correspondiente
+
+<img width="615" height="66" alt="image" src="https://github.com/user-attachments/assets/3dc387b7-3560-4c79-8a3c-8fe905ec2796" />
+
+```solucion 3```
+
+<img width="770" height="516" alt="image" src="https://github.com/user-attachments/assets/ae22d8cf-7148-469f-918e-1d1da4485925" />
+
+
+<img width="615" height="51" alt="image" src="https://github.com/user-attachments/assets/d9970af2-47c7-4cc0-860e-1f9a98182a54" />
