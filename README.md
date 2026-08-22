@@ -244,6 +244,10 @@ en memoria ram se usa Get-CimInstance Win32_OperatingSystem
 
 <img width="310" height="55" alt="image" src="https://github.com/user-attachments/assets/a2f2e868-2845-4360-baef-6aec624a8821" />
 
+```parte 3```
+
+```solucion```
+
 
 | # | Pregunta | Solución Técnica |
 | :-: | :--- | :--- |
@@ -253,3 +257,118 @@ en memoria ram se usa Get-CimInstance Win32_OperatingSystem
 | **4** | **Blockchain: Concepto, uso y aplicación** | • **¿Qué es?:** Libro contable distribuido e inmutable encadenado por hashes (SHA-256).<br>• **¿Serviría?:** **Sí.** Garantiza la inmutabilidad de los reportes de rescate, valida la autenticidad del video de la IA y registra las órdenes enviadas a los drones sin riesgo de alteración. |
 | **5** | **Copias de seguridad y respaldos** | • **Estrategia 3-2-1:** 3 copias de datos, 2 medios distintos y 1 fuera del sitio (Cloud).<br>• **Respaldo en Borde (Edge):** Almacenamiento local temporal en drones/satélites hasta recuperar conexión.<br>• **Sistemas e IA:** Versionado de modelos de IA (DVC) y snapshots automáticos de bases de datos. |
 | **6** | **Propuesta para sistema de rescate (Terremotos)** | • **Sensores IoT & Drones (IA):** Detectan colapsos y ubican personas con cámaras térmicas.<br>• **Red Satelital Cifrada:** Transmite la información cuando caen las redes celulares.<br>• **Blockchain:** Registra de forma inalterable las áreas exploradas y los hallazgos.<br>• **Centro HMI:** Panel de control con MFA donde los rescatistas toman decisiones en tiempo real. |
+
+<img width="785" height="194" alt="image" src="https://github.com/user-attachments/assets/ac9a2f88-d61e-4cf3-bc45-71118681782c" />
+
+```parte 4```
+
+```solucion```
+
+POLÍTICAS DE CONTRASEÑA
+Estado: Riesgo
+Resultado / Hallazgo: Cuentas locales sin políticas de expiración o complejidad activa. Sin umbral de bloqueo configurado contra ataques de fuerza bruta.
+
+FIREWALL DE WINDOWS
+Estado: Conforme
+Resultado / Hallazgo: Perfiles Domain, Private y Public activos con regla de bloqueo por defecto para conexiones entrantes no solicitadas (BlockInbound).
+
+ANTIVIRUS / PROTECCIÓN
+Estado: Conforme
+Resultado / Hallazgo: Módulo de protección en tiempo real activo con firmas de detección actualizadas correctamente.
+
+CONFIGURACIONES DE RED
+Estado: Conforme
+Resultado / Hallazgo: Solo adaptadores de bucle local e interfaces virtuales activas. Sin puertos sensibles no autorizados escuchando conexiones externas.
+
+PUNTOS DE PERSISTENCIA
+Estado: Conforme
+Resultado / Hallazgo: Claves de inicio del registro (Run/RunOnce) limpias. Sin tareas programadas de terceros ni servicios sospechosos con ejecución automática habilitada.
+
+<img width="782" height="435" alt="image" src="https://github.com/user-attachments/assets/70063dbd-7441-4b91-b2ba-8d800b9979ff" />
+
+```parte 5```
+
+```solucion```
+
+</div>
+
+<h2>Prácticas Correctas</h2>
+
+<table>
+<tr>
+    <th>Área</th>
+    <th>Práctica Correcta</th>
+</tr>
+
+<tr>
+    <td>Navegación</td>
+    <td>Navegar de forma limpia</td>
+    <td>Usar navegadores actualizados y no guardar claves bancarias automáticamente.</td>
+</tr>
+
+<tr>
+    <td>Redes Sociales</td>
+    <td>Privacidad de perfiles</td>
+    <td>Limitar la visibilidad de publicaciones, correo y teléfono en los ajustes.</td>
+</tr>
+
+<tr>
+    <td>Autenticación</td>
+    <td>Contraseñas y 2FA</td>
+    <td>Crear claves largas y únicas activando la verificación en dos pasos.</td>
+</tr>
+
+<tr>
+    <td>Respaldos</td>
+    <td>Regla 3-2-1</td>
+    <td>Guardar 3 copias de archivos, en 2 medios diferentes y 1 en la nube.</td>
+</tr>
+
+<tr>
+    <td>Software</td>
+    <td>Descargas oficiales</td>
+    <td>Instalar aplicaciones únicamente desde tiendas oficiales y evitar software pirata.</td>
+</tr>
+
+<tr>
+    <td>Seguridad Física</td>
+    <td>Prevención de espionaje</td>
+    <td>Cubrir la pantalla al digitar contraseñas en público y desconfiar de enlaces raros.</td>
+</tr>
+</table>
+
+```solucion 2```
+
+<h2>Plan de Acción para Entornos Digitales Seguros</h2>
+
+<table>
+<tr>
+    <th>Fase</th>
+    <th>Tarea / Acción</th>
+    <th>Frecuencia</th>
+</tr>
+
+<tr>
+    <td>1. Diagnóstico e Higiene</td>
+    <td>Borrar historial, cookies y desinstalar aplicaciones obsoletas o sin uso.</td>
+    <td>Inmediata</td>
+</tr>
+
+<tr>
+    <td>2. Identidad y Acceso</td>
+    <td>Cambiar contraseñas por combinaciones de 12+ caracteres y activar 2FA en cuentas.</td>
+    <td>Semana 1</td>
+</tr>
+
+<tr>
+    <td>3. Respaldos y Sistemas</td>
+    <td>Aplicar la regla 3-2-1 y activar actualizaciones automáticas en el sistema operativo.</td>
+    <td>Semana 2</td>
+</tr>
+
+<tr>
+    <td>4. Hábitos Continuos</td>
+    <td>Evitar transacciones en redes Wi-Fi públicas y no abrir enlaces sospechosos (Phishing).</td>
+    <td>Permanente</td>
+</tr>
+</table>
