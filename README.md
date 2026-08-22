@@ -228,3 +228,16 @@ se usa ping 8.8.8.8
 ```solucion```
 
 en ambos pc pongo ipconfig y luego los comparo
+
+<img width="315" height="59" alt="image" src="https://github.com/user-attachments/assets/c6e5a9c0-e9c8-4d72-bd07-4d3f35e34502" />
+
+```solucion```
+
+se puden usar varios codigos pero el principal es tasklist
+
+
+<img width="318" height="56" alt="image" src="https://github.com/user-attachments/assets/fead99a7-ac43-45f3-8056-88afd696d879" />
+
+para almacenamiento en disco duro se usa wmic logicaldisk get caption, description, freespace, size
+
+en memoria ram se usa Get-CimInstance Win32_OperatingSystem
