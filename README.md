@@ -147,4 +147,75 @@ la protección de datos personales y la seguridad informática.
 </html>
 
 
-<img width="781" height="88" alt="image" src="https://github.com/user-attachments/assets/a747f6cd-5600-4a7d-b7bf-c10b23960f48" />
+<img width="782" height="443" alt="image" src="https://github.com/user-attachments/assets/9ca0bb16-69d1-4fbc-ad91-ab07958b0c73" />
+
+```parte 2```
+
+```solucion 1```
+
+
+</head>
+
+<body>
+
+<h1>Copias de Seguridad y Entornos Compartidos</h1>
+
+<table>
+
+<tr>
+    <th>Herramienta</th>
+    <th>Categoría</th>
+    <th>Función principal</th>
+    <th>Ventaja</th>
+</tr>
+
+<tr>
+    <td>GitHub</td>
+    <td>Repositorio colaborativo</td>
+    <td>Almacenar y controlar versiones de proyectos.</td>
+    <td>Permite recuperar cambios anteriores.</td>
+</tr>
+
+<tr>
+    <td>GitLab</td>
+    <td>Repositorio colaborativo</td>
+    <td>Gestionar código y proyectos compartidos.</td>
+    <td>Facilita el trabajo en equipo.</td>
+</tr>
+
+<tr>
+    <td>Google Drive</td>
+    <td>Almacenamiento en la nube</td>
+    <td>Guardar, sincronizar y compartir archivos.</td>
+    <td>Permite acceder a los archivos desde diferentes dispositivos.</td>
+</tr>
+
+<tr>
+    <td>OneDrive</td>
+    <td>Almacenamiento en la nube</td>
+    <td>Guardar y respaldar documentos.</td>
+    <td>Facilita la sincronización de archivos.</td>
+</tr>
+
+<tr>
+    <td>Dropbox</td>
+    <td>Almacenamiento en la nube</td>
+    <td>Guardar y compartir información.</td>
+    <td>Permite mantener copias disponibles en línea.</td>
+</tr>
+
+<tr>
+    <td>Git</td>
+    <td>Control de versiones</td>
+    <td>Registrar los cambios realizados en un proyecto.</td>
+    <td>Ayuda a recuperar versiones anteriores.</td>
+</tr>
+
+</table>
+
+
+<img width="692" height="50" alt="image" src="https://github.com/user-attachments/assets/7fb6ed76-8353-4c30-988b-55ac646c8f09" />
+
+<img width="308" height="52" alt="image" src="https://github.com/user-attachments/assets/679d95d2-08ca-4eac-8b22-8e7e8da0c045" />
+
+```solucion```
