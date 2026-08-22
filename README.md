@@ -219,3 +219,12 @@ la protección de datos personales y la seguridad informática.
 <img width="308" height="52" alt="image" src="https://github.com/user-attachments/assets/679d95d2-08ca-4eac-8b22-8e7e8da0c045" />
 
 ```solucion```
+
+se usa ping 8.8.8.8
+
+
+<img width="310" height="56" alt="image" src="https://github.com/user-attachments/assets/62fd55cb-e712-4a8d-8dd9-ba4659d2325e" />
+
+```solucion```
+
+en ambos pc pongo ipconfig y luego los comparo
