@@ -241,3 +241,15 @@ se puden usar varios codigos pero el principal es tasklist
 para almacenamiento en disco duro se usa wmic logicaldisk get caption, description, freespace, size
 
 en memoria ram se usa Get-CimInstance Win32_OperatingSystem
+
+<img width="310" height="55" alt="image" src="https://github.com/user-attachments/assets/a2f2e868-2845-4360-baef-6aec624a8821" />
+
+
+| # | Pregunta | Solución Técnica |
+| :-: | :--- | :--- |
+| **1** | **¿Qué información debe estar cifrada?** | • **IoT / Sensores:** Lecturas sísmicas, credenciales de red y claves API.<br>• **Nanosatélites:** Telecomandos de control (C2), ubicación GPS y telemetría de vuelo.<br>• **Drones e IA:** Video térmico/óptico en vivo, rutas de vuelo y datos de víctimas.<br>• **HMI:** Contraseñas, tokens de sesión y credenciales de operadores. |
+| **2** | **Protocolos de seguridad por tecnología** | • **IoT:** MQTTS (MQTT sobre TLS) y CoAP/DTLS.<br>• **Nanosatélites:** CCSDS SDLS (Space Data Link Security) con cifrado AES-256.<br>• **Drones / IA:** RTSP/SRTP para streaming de video y HTTPS (TLS 1.3).<br>• **HMI:** HTTPS, SSH v2 y autenticación vía OAuth 2.0 / OpenID Connect. |
+| **3** | **Gestión de contraseñas, usuarios y HMI** | • **Autenticación:** Uso obligatorio de MFA (TOTP/FIDO2) bajo modelo Zero Trust.<br>• **Control de acceso:** RBAC (Roles: Administrador, Operador de Dron, Analista).<br>• **Seguridad de datos:** Hasheo de claves con Argon2id/bcrypt y almacenamiento en Vault/HSM. |
+| **4** | **Blockchain: Concepto, uso y aplicación** | • **¿Qué es?:** Libro contable distribuido e inmutable encadenado por hashes (SHA-256).<br>• **¿Serviría?:** **Sí.** Garantiza la inmutabilidad de los reportes de rescate, valida la autenticidad del video de la IA y registra las órdenes enviadas a los drones sin riesgo de alteración. |
+| **5** | **Copias de seguridad y respaldos** | • **Estrategia 3-2-1:** 3 copias de datos, 2 medios distintos y 1 fuera del sitio (Cloud).<br>• **Respaldo en Borde (Edge):** Almacenamiento local temporal en drones/satélites hasta recuperar conexión.<br>• **Sistemas e IA:** Versionado de modelos de IA (DVC) y snapshots automáticos de bases de datos. |
+| **6** | **Propuesta para sistema de rescate (Terremotos)** | • **Sensores IoT & Drones (IA):** Detectan colapsos y ubican personas con cámaras térmicas.<br>• **Red Satelital Cifrada:** Transmite la información cuando caen las redes celulares.<br>• **Blockchain:** Registra de forma inalterable las áreas exploradas y los hallazgos.<br>• **Centro HMI:** Panel de control con MFA donde los rescatistas toman decisiones en tiempo real. |
