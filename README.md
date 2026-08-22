@@ -61,3 +61,90 @@ la empresa debe aislar el PC de la red para evitar posibles daños o propagació
 
 
 <img width="615" height="51" alt="image" src="https://github.com/user-attachments/assets/d9970af2-47c7-4cc0-860e-1f9a98182a54" />
+
+```solucion 4```
+
+
+</head>
+
+<body>
+
+<h2>Leyes de Ciberseguridad y Hábeas Data</h2>
+
+<p>
+Principales normas nacionales e internacionales relacionadas con
+la protección de datos personales y la seguridad informática.
+</p>
+
+<table>
+
+<tr>
+    <th>Ámbito</th>
+    <th>Norma</th>
+    <th>Tema</th>
+    <th>Descripción</th>
+</tr>
+
+<tr class="nacional">
+    <td>🇨🇴 Colombia</td>
+    <td>Constitución Política - Artículo 15</td>
+    <td>Hábeas Data</td>
+    <td>Reconoce el derecho a conocer, actualizar y rectificar datos personales.</td>
+</tr>
+
+<tr class="nacional">
+    <td>🇨🇴 Colombia</td>
+    <td>Ley 1266 de 2008</td>
+    <td>Hábeas Data financiero</td>
+    <td>Regula la información financiera, crediticia y comercial de las personas.</td>
+</tr>
+
+<tr class="nacional">
+    <td>🇨🇴 Colombia</td>
+    <td>Ley 1273 de 2009</td>
+    <td>Delitos informáticos</td>
+    <td>Protege la información y los datos frente a accesos y ataques ilegales.</td>
+</tr>
+
+<tr class="nacional">
+    <td>🇨🇴 Colombia</td>
+    <td>Ley 1581 de 2012</td>
+    <td>Datos personales</td>
+    <td>Establece reglas para el tratamiento y protección de datos personales.</td>
+</tr>
+
+<tr class="nacional">
+    <td>🇨🇴 Colombia</td>
+    <td>Decreto 1074 de 2015</td>
+    <td>Protección de datos</td>
+    <td>Reglamenta disposiciones relacionadas con el tratamiento de datos.</td>
+</tr>
+
+<tr class="internacional">
+    <td>🌎 Internacional</td>
+    <td>Convenio de Budapest</td>
+    <td>Ciberdelincuencia</td>
+    <td>Promueve la cooperación internacional contra los delitos informáticos.</td>
+</tr>
+
+<tr class="internacional">
+    <td>🌎 Internacional</td>
+    <td>Segundo Protocolo de Budapest</td>
+    <td>Evidencia electrónica</td>
+    <td>Busca mejorar la cooperación para obtener y compartir evidencia digital.</td>
+</tr>
+
+<tr class="internacional">
+    <td>🌎 Internacional</td>
+    <td>Convención de la ONU contra la Ciberdelincuencia</td>
+    <td>Cooperación internacional</td>
+    <td>Establece mecanismos internacionales para enfrentar ciertos delitos digitales.</td>
+</tr>
+
+</table>
+
+</body>
+</html>
+
+
+<img width="781" height="88" alt="image" src="https://github.com/user-attachments/assets/a747f6cd-5600-4a7d-b7bf-c10b23960f48" />
